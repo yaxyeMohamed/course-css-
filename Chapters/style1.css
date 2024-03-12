@@ -1,0 +1,23 @@
+body{
+    background-color:#f1f1f1;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: initial;
+}
+
+h1{
+    text-align: center;
+    word-spacing: 1.6;
+}
+
+.name{
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    color:white;
+    padding: 10px;
+    margin: 20px;
+    border:2px solid #2222;
+}
